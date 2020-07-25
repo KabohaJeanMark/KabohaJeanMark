@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am an Arsenal sympathiser...
 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jean-mark-kaboha-software-engineer/) 
-[Gmail](kabohajeanmark@gmail.com) 
+[Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=kabohajeanmark@gmail.com) 
 [Twitter](https://twitter.com/jean_quintus)
  
 

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Ruby On Rails Projects.
 
-- 🌱 I’m learning Ruby and Google Cloud Development.
+- 🌱 I’m learning and polishing up on my frontend web development skills of HTML5 Web Accessibility and styling with raw CSS3..
 
 - 😄 For more information about me: .. [My Portfolio Website](https://kabohajeanmark.github.io/my-portfolio/)
 

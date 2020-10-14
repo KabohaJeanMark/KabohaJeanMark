@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 😄 For more information about me: .. [My Portfolio Website](https://kabohajeanmark.github.io/my-portfolio/)
 
-- ⚡ Fun fact: I am an Arsenal sympathiser...
+- ⚡ Fun fact: I love soccer jerseys...
 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jean-mark-kaboha-software-engineer/) 
 [Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=kabohajeanmark@gmail.com) 

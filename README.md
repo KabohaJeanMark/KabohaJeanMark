@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 - 💬 I am Jean. A freelance Software Developer who lays bricks on the internet, creating paths and solving problems for enterprises and individuals.
 
+- 🌱 I’m a full time student at ![](https://img.shields.io/badge/Microverse-blueviolet) learning and polishing up on my web development skills while collaborating remotely with friends all over the world.
+
 - 🔭 I’m available for hire for roles concerning FullStack Web Development .
 
 - 👯 I’m looking to collaborate on Ruby On Rails Projects.
-
-- 🌱 I’m learning and polishing up on my frontend web development skills of HTML5 Web Accessibility and styling with raw CSS3..
 
 - 😄 For more information about me: .. [My Portfolio Website](https://kabohajeanmark.github.io/my-portfolio/)
 

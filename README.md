@@ -12,20 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Jean Mark Kanoha](https://user-images.githubusercontent.com/44635784/109935559-c71bbd80-7cde-11eb-908a-7a8e90a960c6.jpg)
+![Jean Mark Kaboha](https://user-images.githubusercontent.com/44635784/109935559-c71bbd80-7cde-11eb-908a-7a8e90a960c6.jpg)
 
 ## About Me
-- 💬 Hey 👋, I am Jean; a Fullstack Software Developer :computer: who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.
+- :wave: Hey, I am Jean; a Fullstack Software Developer :computer: who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.
 
 - 🌱 I’m a full time student at ![](https://img.shields.io/badge/Microverse-blueviolet) learning and polishing up on my web development skills while collaborating and pair programmingremotely with developers all over the world.
 
-- 🔭 I’m available for hire in roles concerning FullStack Web Development :rocket:
+- 🔭 I’m available for hire in roles concerning FullStack Web Development.
 
-- 👯 I’m looking to collaborate on Ruby On Rails Projects. :muscle:
+- 👯 I’m looking to collaborate on Ruby On Rails Projects.
 
 - 💬 Ask me about Python, Chess, Gamimg and Swimming.
 
-- ⚡ Fun fact: I won a :tada: a Nationwide gaming :video_game: tournament 
+- :video_game: Fun fact: I won a Nationwide gaming tournament.
 
 ## Contact 📫
 

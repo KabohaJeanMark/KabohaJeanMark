@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KabohajeanMark)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 ![Jean Mark Kaboha](https://user-images.githubusercontent.com/44635784/109935559-c71bbd80-7cde-11eb-908a-7a8e90a960c6.jpg)
 
-## About Me
+## About Me 😄
 - :wave: Hey, I am Jean; a Fullstack Software Developer :computer: who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.
 
 - 🌱 I’m a full time student at ![](https://img.shields.io/badge/Microverse-blueviolet) learning and polishing up on my web development skills while collaborating and pair programmingremotely with developers all over the world.
@@ -27,9 +28,13 @@ Here are some ideas to get you started:
 
 - :video_game: Fun fact: I won a Nationwide gaming tournament.
 
+## Statistics :bar_chart:
+
+[![Kaboha Jean Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabohajeanMark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact 📫
 
-- 😄 For more information about me: .. [My Portfolio Website](https://kabohajeanmark.github.io/my-portfolio/)
+- :link: For more information about me: .. [My Portfolio Website](https://kabohajeanmark.github.io/my-portfolio/)
 
 - 💬 How to reach me: ... [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-mark-kaboha-software-engineer/) 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jean_quintus)

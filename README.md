@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Ruby On Rails Projects.
 
-- 💬 Ask me about Python, Chess, Gamimg and Swimming.
+- ⚡ Ask me about Python, Chess, Gamimg and Swimming.
 
 - :video_game: Fun fact: I won a Nationwide gaming tournament.
 

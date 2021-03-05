@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KabohajeanMark)](https://github.com/anuraghazra/github-readme-stats) 
 -->
-![Jean Mark Kaboha](https://user-images.githubusercontent.com/44635784/109935559-c71bbd80-7cde-11eb-908a-7a8e90a960c6.jpg)
+![Full Stack Web Developer](https://user-images.githubusercontent.com/44635784/110093819-31e6fa80-7dac-11eb-885a-b936272a445a.gif)
 
 ## About Me 😄
 :wave: Hey, I am Jean; a Fullstack Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.

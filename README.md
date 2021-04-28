@@ -40,7 +40,7 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 
 ## Statistics :bar_chart:
 
-[![Kaboha Jean Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabohajeanMark)](https://github.com/anuraghazra/github-readme-stats)
+![Kaboha Jean Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabohajeanMark&show_icons=true&theme=dracula)
 
 ## Contact 📫
 

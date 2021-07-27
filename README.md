@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me 😄
 :wave: Hey, I am Jean; a Full-Stack Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.
 
-🌱 I’m a full time student at ![](https://img.shields.io/badge/Microverse-blueviolet) learning and polishing up on my web development skills while collaborating and pair programming remotely with developers from all over the world.
+🌱 I’m a part-time Code Reviewer ✔️ and full-time student at ![](https://img.shields.io/badge/Microverse-blueviolet). I am actively learning and polishing up on my web development skills while collaborating and pair programming remotely to build projects with developers from all over the world.
 
 🔭 I’m available for hire in roles concerning Full-Stack Web Development.
 

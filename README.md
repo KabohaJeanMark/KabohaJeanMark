@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## About Me 😄
 :wave: Hey, I am Jean; a Full-Stack Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.
 
-🌱 I’m a part-time Code Reviewer ✔️ and full-time student at ![](https://img.shields.io/badge/Microverse-blueviolet). I am actively learning and polishing up on my web development skills while collaborating and pair programming remotely to build projects with developers from all over the world.
+🌱 I am a part-time Technical Support Engineer ✔️, Technical Content Writer 🖋️ and full-time student at ![](https://img.shields.io/badge/Microverse-blueviolet). I am actively learning and polishing up on my web development skills while collaborating and pair programming remotely to build projects with developers from all over the world asynchronously across 5 time zones.
 
-🔭 I’m available for hire in roles concerning Full-Stack Web Development.
+🔭 I am available for hire in roles concerning Full-Stack Web Development and Front-End Web Development.
 
 ## Tech-Stack, Tools & Technologies :computer:
 
@@ -32,11 +32,11 @@ Frameworks: <img alt="React" src="https://img.shields.io/badge/react%20-%2320232
 
 Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 
-👯 I’m looking forward to collaborating on React JS and Ruby on Rails projects. 
+👯 I am looking forward to collaborating on JavaScript, React JS and Ruby on Rails projects. 
 
 ⚡ Ask me about JavaScript, Chess, Gaming and Swimming.
 
-:video_game: Fun fact: I won a Nationwide gaming tournament in Tekken.
+:video_game: Fun fact: I won a Nationwide gaming tournament 🏆 in Tekken.
 
 ## Statistics :bar_chart:
 

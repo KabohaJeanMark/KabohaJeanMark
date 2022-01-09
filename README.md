@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 ![Full-Stack Web Developer](https://user-images.githubusercontent.com/44635784/110093819-31e6fa80-7dac-11eb-885a-b936272a445a.gif)
 
 ## About Me 😄
-:wave: Hey, I am Jean; a Full-Stack Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.
+:wave: Hey, I am Jean; a Full-Stack Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals improving Accessibility and User Experience.
 
-🌱 I am a part-time Technical Support Engineer ✔️, Technical Content Writer 🖋️ and full-time student at ![](https://img.shields.io/badge/Microverse-blueviolet). I am actively learning and polishing up on my web development skills while collaborating and pair programming remotely to build projects with developers from all over the world asynchronously across 5 time zones.
+🌱 I am a part-time Technical Support Engineer ✔️ and Technical Content Writer 🖋️ at ![](https://img.shields.io/badge/Microverse-blueviolet). I am actively learning, mentoring and polishing up on my web development skills while collaborating and pair programming remotely to build projects with developers from all over the world asynchronously across 5 time zones.
 
-🔭 I am available for hire in roles concerning Full-Stack Web Development and Front-End Web Development.
+🔭 I am a strong engineering professional with a dedication to continuous learning and a total of 2+ years of working experience with agile, remotely distributed and cross-cultural teams.
+
+👯 I am available for hire in roles concerning Full-Stack Web Development and Front-End Web Development.
 
 ## Tech-Stack, Tools & Technologies :computer:
 

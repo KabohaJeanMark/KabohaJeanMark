@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me 😄
 :wave: Hey, I am Jean; a Full-Stack Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals improving Accessibility and User Experience.
 
-🌱 I am a Software Engineer ✔️ at [MedX International](https://medx.international/) and share a few learnings as a [Technical Content Writer 🖋️](https://www.microverse.org/blog-authors/kaboha-jean-mark) at ![](https://img.shields.io/badge/Microverse-blueviolet). Currently, I am engaged in active learning, mentoring and polishing up on my web development skills while collaborating and pair programming remotely to build projects with developers from all over the world asynchronously across 5 time zones.
+🌱 I am a Course Instructor✔️ at [Code First Girls](https://codefirstgirls.com/) and share a few learnings as a [Technical Content Writer 🖋️](https://www.microverse.org/blog-authors/kaboha-jean-mark) at ![](https://img.shields.io/badge/Microverse-blueviolet). Currently, I am engaged in active learning, mentoring and polishing up on my web development skills while collaborating and pair programming remotely to build projects with developers from all over the world asynchronously across 5 time zones.
 
 🔭 I am a strong engineering professional with a dedication to continuous learning and a total of 2+ years of working experience with agile, remotely distributed and cross-cultural teams.
 

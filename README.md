@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Full-Stack Web Developer](https://user-images.githubusercontent.com/44635784/110093819-31e6fa80-7dac-11eb-885a-b936272a445a.gif)
 
 ## About Me 😄
-:wave: Hey, I am Jean; a Full-Stack Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals improving Accessibility and User Experience.
+ Hey, I am Jean; a Full-Stack Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals improving Accessibility and User Experience.
 
 🌱 I am a Lead Instructor✔️ at [Code First Girls](https://codefirstgirls.com/) and share [optimal professional and technical skills tips](https://www.microverse.org/blog-authors/kaboha-jean-mark) as a Technical Content Writer 🖋️and Mentor  at ![](https://img.shields.io/badge/Microverse-blueviolet). Currently, I am engaged in active learning, mentoring and polishing up on my web development skills while collaborating and pair programming remotely to build projects with developers from all over the world asynchronously across 5 time zones.
 

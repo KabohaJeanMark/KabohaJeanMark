@@ -33,9 +33,9 @@ I am a strong engineering professional dedicated to continuous learning and I ha
 - **Career Development:** Growing my software development career to leverage my leadership skills and technical expertise so as to add more value with the products I build.
 
 ## Contact me: 📫
-- [LinkedIn](https://www.linkedin.com/in/jeanmarkkaboha/)
-- [Email](kabohajeanmark@gmail.com)
+- [LinkedIn 🔗](https://www.linkedin.com/in/jeanmarkkaboha/)
+- [Email 📧](mailto:kabohajeanmark@gmail.com)
 
-I am looking to collaborate on projects that leverage technology to make a social impact 🤝
+I am looking to collaborate on projects that leverage technology to make a social impact 🤝.
 
 

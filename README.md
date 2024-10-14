@@ -26,7 +26,7 @@ I am a strong engineering professional dedicated to continuous learning and I ha
 
 ## Leadership & Advocacy 📚
 - 🌱 I am a Lead Instructor✔️ at [Code First Girls](https://codefirstgirls.com/) helping trailblaze for gender equality and equal representation in technology.
-- 🌱 I share [optimal professional and technical skills tips](https://www.microverse.org/blog-authors/kaboha-jean-mark) as a Technical Content Writer 🖋️and Mentor from my experience for example in this :tv: YouTube Video [Understanding React, Virtual DOM, Redux, State Management & One-way Data Flow](https://www.youtube.com/watch?v=E2rG5Yd_XR0&ab_channel=Microverse)
+- 🌱 I share [optimal professional and technical skills tips](https://www.microverse.org/blog-authors/kaboha-jean-mark) as a Technical Content Writer 🖋️and Mentor from my experience for example in this :tv: YouTube Video [Understanding React, Virtual DOM, Redux, State Management & One-way Data Flow](https://www.youtube.com/watch?v=E2rG5Yd_XR0&ab_channel=Microverse).
 
 ## Professional Goals 🚀
 - **Continuous Learning:** I am dedicated to professional development and growth by staying updated with the latest trends and refining myself by studying and applying lessons from numerous courses to advance my coding skills.

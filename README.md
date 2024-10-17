@@ -19,7 +19,7 @@ Hey, I am Jean; a Software Engineer who lays bricks on the internet in full-stac
 ## About Me 😄
 I am a strong engineering professional dedicated to continuous learning and I have about half a decade of working experience with agile, remotely distributed and cross-cultural teams building products for clients in different sectors like edutech, fintech and healthcare.
 
-## Technical Skills :computer:
+## Skills :computer:
 - **Programming Languages:** JavaScript, TypeScript, Python, Ruby.
 - **Web Technologies:** ReactJS, Node, HTML, CSS, Bootstrap, Django, Rails 
 - **DevOps Tools:** Docker, Redis  

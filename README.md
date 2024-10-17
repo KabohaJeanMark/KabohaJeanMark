@@ -20,9 +20,12 @@ Hey, I am Jean; a Software Engineer who lays bricks on the internet in full-stac
 I am a strong engineering professional dedicated to continuous learning and I have about half a decade of working experience with agile, remotely distributed and cross-cultural teams building products for clients in different sectors like edutech, fintech and healthcare.
 
 ## Technical Skills :computer:
-- **Languages:** JavaScript, TypeScript, Python, Ruby.
-- **Frameworks & Libraries:** ReactJS, Node, Django, Rails 
-- **Tools & Platforms:** GitHub, Docker 
+- **Programming Languages:** JavaScript, TypeScript, Python, Ruby.
+- **Web Technologies:** ReactJS, Node, HTML, CSS, Bootstrap, Django, Rails 
+- **DevOps Tools:** Docker, Redis  
+- **APIs and Tools:** RESTful APIs, GraphQL, Postman, Swagger
+- **Database Systems:** MySQL, NoSQL, MongoDB, PostgreSQL
+- **Soft Skills:** Leadership, Agile Project Management, Communication, Problem-solving, Remote Team Collaboration, Attention to Detail
 
 ## Leadership & Advocacy 📚
 - 🌱 I am a Lead Instructor✔️ at [Code First Girls](https://codefirstgirls.com/) helping trailblaze for gender equality and equal representation in technology.

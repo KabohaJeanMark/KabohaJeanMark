@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hey, I am Jean; a Software Engineer who lays bricks on the internet in full-stack web projects, creating beautiful paths and solving problems for enterprises and individuals improving Accessibility and User Experience.
 
 ## About Me 😄
-I am a strong engineering professional dedicated to continuous learning and I have about half a decade of working experience with agile, remotely distributed and cross-cultural teams building products for clients in different sectors like edutech, fintech and healthcare.
+Software Engineer with half a decade of experience in designing user-centric, accessible applications for businesses in education, health, and finance. Specialises in developing UI/UX solutions that drive engagement and operational efficiency, aiming to create impactful, inclusive products that solve real-world problems and serve social causes.
 
 ## Skills :computer:
 - **Programming Languages:** JavaScript, TypeScript, Python, Ruby.

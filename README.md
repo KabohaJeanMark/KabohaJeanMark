@@ -29,7 +29,7 @@ Software Engineer with half a decade of experience in designing user-centric, ac
 - **Design Patterns:** Command, Template, Visitor, Iterator, Strategy, State, Mediator, Observer, Singleton, Factory, Decorator, Proxy, Builder, Facade, Abstract Factory
 - **APIs and Tools:** RESTful APIs, GraphQL, Postman, Swagger
 - **Database Systems:** MySQL, NoSQL, MongoDB, PostgreSQL
-- **Soft Skills:** Leadership, Agile Project Management, Communication, Problem-solving, Remote Team Collaboration, Attention to Detail
+- **Soft Skills:** Leadership, Agile Project Management, Communication, Problem-solving, Remote Team Collaboration, Holistic Big Picture Thinking
 
 ## Leadership & Advocacy 📚
 - 🌱 I am a Lead Instructor✔️ at [Code First Girls](https://codefirstgirls.com/) helping trailblaze for gender equality and equal representation in technology.

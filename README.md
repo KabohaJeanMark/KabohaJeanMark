@@ -20,9 +20,13 @@ Hey, I am Jean; a Software Engineer who lays bricks on the internet in full-stac
 Software Engineer with half a decade of experience in designing user-centric, accessible applications for businesses in education, health, and finance. Specialises in developing UI/UX solutions that drive engagement and operational efficiency, aiming to create impactful, inclusive products that solve real-world problems and serve social causes.
 
 ## Skills :computer:
-- **Programming Languages:** JavaScript, TypeScript, Python, Ruby.
-- **Web Technologies:** ReactJS, Node, HTML, CSS, Bootstrap, Django, Rails 
-- **DevOps Tools:** Docker, Redis  
+- **Programming Languages:** JavaScript, Python, Ruby.
+- **Web Technologies:** TypeScript, HTML5, CSS3, Bootstrap, SCSS, MaterialUI
+- **Frameworks** ReactJS, Node, Flask, Django, Ruby on Rails
+- **DevOps Tools:** Docker, Kubernetes, Redis
+- **SDLC:** Test Driven Development, Agile, Scrum, Kanban
+- **Tools:** Git, GitHub, GitLab, Slack, Pivotal Tracker, Heroku, Zoom, Google Meet, Butter, Jitsi Meet, Figma, VS Code
+- **Design Patterns:** Command, Template, Visitor, Iterator, Strategy, State, Mediator, Observer, Singleton, Factory, Decorator, Proxy, Builder, Facade, Abstract Factory
 - **APIs and Tools:** RESTful APIs, GraphQL, Postman, Swagger
 - **Database Systems:** MySQL, NoSQL, MongoDB, PostgreSQL
 - **Soft Skills:** Leadership, Agile Project Management, Communication, Problem-solving, Remote Team Collaboration, Attention to Detail

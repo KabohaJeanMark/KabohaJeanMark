@@ -25,7 +25,6 @@ Software Engineer with half a decade of experience in designing user-centric, ac
 - **Frameworks** ReactJS, Node, Flask, Django, Ruby on Rails
 - **DevOps Tools:** Docker, Kubernetes, Redis
 - **SDLC:** Test Driven Development, Agile, Scrum, Kanban
-- **Tools:** Git, GitHub, GitLab, Slack, Pivotal Tracker, Heroku, Zoom, Google Meet, Butter, Jitsi Meet, Figma, VS Code
 - **Design Patterns:** Command, Template, Visitor, Iterator, Strategy, State, Mediator, Observer, Singleton, Factory, Decorator, Proxy, Builder, Facade, Abstract Factory
 - **APIs and Tools:** RESTful APIs, GraphQL, Postman, Swagger
 - **Database Systems:** MySQL, NoSQL, MongoDB, PostgreSQL

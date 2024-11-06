@@ -41,6 +41,7 @@ Software Engineer with half a decade of experience in designing user-centric, ac
 ## Contact me: 📫
 - [LinkedIn 🔗](https://www.linkedin.com/in/jeanmarkkaboha/)
 - [Email 📧](mailto:kabohajeanmark@gmail.com)
+- [Website 🔭](https://www.kabohajeanmark.com/)
 
 I am looking to collaborate on projects that leverage technology to make a social impact 🤝.
 

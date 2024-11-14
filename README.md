@@ -26,7 +26,7 @@ Software Engineer with over half a decade of experience in designing user-centri
 - **DevOps Tools & CI/CD:** Docker, Kubernetes, Redis, Git, CircleCI, TravisCI
 - **SDLC & Programming Paradigms:** Agile, Scrum, Kanban, Waterfall, Test Driven Development, Behaviour Driven Design, Functional Programming, Object Oriented Programming
 - **Design Patterns:** Command, Template, Visitor, Iterator, Strategy, State, Mediator, Observer, Singleton, Factory, Decorator, Proxy, Builder, Facade, Abstract Factory
-- **APIs and Tools:** RESTful APIs, GraphQL, Postman, Swagger
+- **APIs and Tools:** Representational State Transfer(REST), GraphQL, Postman, Swagger
 - **Database Systems:** MySQL, NoSQL, MongoDB, PostgreSQL
 - **Soft Skills:** Leadership, Agile Project Management, Communication, Problem-solving, Remote Team Collaboration, Holistic Big Picture Thinking
 
